@@ -1,0 +1,7 @@
+C:\Users\vpnuser\Desktop\Petrik\II. félév\C#\Clock_OOP_dolgozat_KorteA\Clock_OOP_dolgozat_KorteA\bin\Debug\Clock_OOP_dolgozat_KorteA.exe.config
+C:\Users\vpnuser\Desktop\Petrik\II. félév\C#\Clock_OOP_dolgozat_KorteA\Clock_OOP_dolgozat_KorteA\bin\Debug\Clock_OOP_dolgozat_KorteA.exe
+C:\Users\vpnuser\Desktop\Petrik\II. félév\C#\Clock_OOP_dolgozat_KorteA\Clock_OOP_dolgozat_KorteA\bin\Debug\Clock_OOP_dolgozat_KorteA.pdb
+C:\Users\vpnuser\Desktop\Petrik\II. félév\C#\Clock_OOP_dolgozat_KorteA\Clock_OOP_dolgozat_KorteA\obj\Debug\Clock_OOP_dolgozat_KorteA.csproj.AssemblyReference.cache
+C:\Users\vpnuser\Desktop\Petrik\II. félév\C#\Clock_OOP_dolgozat_KorteA\Clock_OOP_dolgozat_KorteA\obj\Debug\Clock_OOP_dolgozat_KorteA.csproj.CoreCompileInputs.cache
+C:\Users\vpnuser\Desktop\Petrik\II. félév\C#\Clock_OOP_dolgozat_KorteA\Clock_OOP_dolgozat_KorteA\obj\Debug\Clock_OOP_dolgozat_KorteA.exe
+C:\Users\vpnuser\Desktop\Petrik\II. félév\C#\Clock_OOP_dolgozat_KorteA\Clock_OOP_dolgozat_KorteA\obj\Debug\Clock_OOP_dolgozat_KorteA.pdb
